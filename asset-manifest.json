@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.db6e6c06.css",
+    "main.js": "/static/js/main.04f04376.js",
+    "static/js/787.18daad6b.chunk.js": "/static/js/787.18daad6b.chunk.js",
+    "static/media/doggo.png": "/static/media/doggo.7485282f2ebca935eaaa.png",
+    "index.html": "/index.html",
+    "main.db6e6c06.css.map": "/static/css/main.db6e6c06.css.map",
+    "main.04f04376.js.map": "/static/js/main.04f04376.js.map",
+    "787.18daad6b.chunk.js.map": "/static/js/787.18daad6b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db6e6c06.css",
+    "static/js/main.04f04376.js"
+  ]
+}
